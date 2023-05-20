@@ -2,7 +2,9 @@
 With the increasing popularity of social apps, sending emojis has become a very common way of expressing one’s emotions. However, situations often arise when people send the wrong emoji by mistake, or sometimes even an emoji with an opposite meaning, which can cause embarrassment to the sender. The objectve of this study was to analyze the extent to which the 12 emotional components that are associated with embarrassment actually explain what embarrassment is, as well as the different degrees of embarrassment among the different gender and age groups.
 
 <img src="https://github.com/Easy-Shu/Emojis_Emotion_Analysis/blob/main/Figure5_Gener_Comparison.jpg" width=100% alt="beasuty"></img>
+<p align="center">
 Mean values of females and males for different emotions under 10 dialogue scenarios
+</p>
 
 <img src="https://github.com/Easy-Shu/Emojis_Emotion_Analysis/blob/main/Figure7_Age_Comparisons.jpg" width=100% alt="beasuty"></img>
 Mean values of three age groups for different emotions under 10 dialogue scenarios
