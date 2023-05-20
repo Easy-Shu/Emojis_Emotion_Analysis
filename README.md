@@ -7,7 +7,9 @@ Mean values of females and males for different emotions under 10 dialogue scenar
 </p>
 
 <img src="https://github.com/Easy-Shu/Emojis_Emotion_Analysis/blob/main/Figure7_Age_Comparisons.jpg" width=100% alt="beasuty"></img>
+<p align="center">
 Mean values of three age groups for different emotions under 10 dialogue scenarios
+</p>
 
 ## Citation
 If you find our work useful to your research, please consider citing:
